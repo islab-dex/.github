@@ -6,5 +6,5 @@ uniswapv3 development book 참고
 Foundry 사용
 # Contact
 - previouslyon25@gmail.com
-- 
-- 
+- gjalsldkql@kyonggi.ac.kr
+- yoojisoo99@naver.com
