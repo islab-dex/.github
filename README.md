@@ -23,6 +23,8 @@ git pull origin milestone_1
 
 curl -L https://foundry.paradigm.xyz | bash //foundry 설치 스크립트 다운
 
+**스크립트 설치 과정에서 foundry는 cmd나 터미널을 지원하지 않으니 git bash활용**
+
 rustup update stable //rust 설치 필요
 
 cargo install --git https://github.com/foundry-rs/foundry --profile release --locked forge foundry-cast chisel anvil //cargo 사용해서 foundry 설치
